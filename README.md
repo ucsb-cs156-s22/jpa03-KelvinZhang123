@@ -1,3 +1,6 @@
+# CODECOV Badge
+[![codecov](https://codecov.io/gh/ucsb-cs156-s22/jpa03-KelvinZhang123/branch/master/graph/badge.svg?token=enLyKj6E3u)](https://codecov.io/gh/ucsb-cs156-s22/jpa03-KelvinZhang123)
+
 # demo-spring-react-example-v2: dsre-v2
 
 Storybook is here:
